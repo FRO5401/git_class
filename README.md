@@ -20,6 +20,8 @@ Welcome to team 5401's 'git_class' Repo! This Repo exists solely to teach good G
 * `ls` list. List files within your current directory.
 * `cat [FILE NAME]` concatenate. A fancy way to say 'read'. This will read the text of the **FILE** you designate.
 
+![cli-example](https://user-images.githubusercontent.com/4355236/52813475-da13b480-3067-11e9-99cb-767d32455874.gif)
+
 ## Interacting with the Remote Repository
 * `git fetch` pulls all available branches from the remote repo and saves them on your computer
    * `git fetch --prune` Will both bring down all available branchs will removing local copies of deleted branches.
